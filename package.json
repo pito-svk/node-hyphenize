@@ -1,10 +1,14 @@
 {
-  "name": "hyphenize",
-  "version": "0.0.1",
+  "name": "node-hyphenize",
+  "version": "0.0.2",
   "description": "",
   "dependencies": {
     "lodash.kebabcase": "^4.1.1",
     "lodash.mapkeys": "^4.6.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+   "repository": {
+    "type": "git",
+    "url": "git@github.com:pito-svk/node-hyphenize.git"
+  }
 }
